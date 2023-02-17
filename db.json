@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Samsungg",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 2300,
+      "comment": "Good in condition.",
+      "date": "2023-02-01T19:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 300,
+      "comment": "Fresh",
+      "date": "2023-02-03T19:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Orange",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 200,
+      "comment": "Good",
+      "date": "2023-02-01T19:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Nokiaaaa",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 3333,
+      "comment": "Good",
+      "date": "2023-02-16T19:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Infinix",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 2200,
+      "comment": "New condition geniune ",
+      "date": "2023-02-23T19:00:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Onion",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "Fresh",
+      "date": "2023-02-08T19:00:00.000Z",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
